@@ -10,3 +10,5 @@ public class Brancardier extends PersonalSpital {
         System.out.println("Brancardierul " + getNume());
     }
 }
+
+
