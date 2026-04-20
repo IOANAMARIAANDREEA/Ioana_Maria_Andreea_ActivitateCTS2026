@@ -1,6 +1,8 @@
 package cts.ioana.maria.andreea.g1161.simplefactory.main;
 
-import cts.ioana.maria.andreea.g1161.simplefactory.model.*;
+import cts.ioana.maria.andreea.g1161.simplefactory.model.FactoryPersonal;
+import cts.ioana.maria.andreea.g1161.simplefactory.model.PersonalSpital;
+import cts.ioana.maria.andreea.g1161.simplefactory.model.TipPersonal;
 
 public class Main {
     public static void main(String[] args) {
